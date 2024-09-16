@@ -20,13 +20,13 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'AMIFinance' );
+define( 'DB_NAME', 'amifinancegroup_amifinance' );
 
 /** Database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'amifinance' );
 
 /** Database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', 'c.?H0&*IF=#V' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
