@@ -23,7 +23,7 @@
 define( 'DB_NAME', 'amifinancegroup_amifinance' );
 
 /** Database username */
-define( 'DB_USER', 'amifinancegroup_amifinance' );
+define( 'DB_USER', '' );
 
 /** Database password */
 define( 'DB_PASSWORD', 'c.?H0&*IF=#V' );
